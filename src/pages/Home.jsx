@@ -35,7 +35,7 @@ function Home() {
           textAlign: "center",
         }}
       >
-        <h1>UQuiz</h1>
+        <h1>UQuiz (이상원)</h1>
 
         <input
           type="text"
